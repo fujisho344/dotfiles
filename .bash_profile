@@ -1,0 +1,54 @@
+PATH=$PATH:$HOME/pear/bin
+export PATH
+echo 'export PATH=$PATH:$HOME/pear/bin' >> ~/.bash_profile
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+
+
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+
+export PS1='\u:\W \t \[\e[0;35m\]$\[\e[0;0m\] '
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
+export PATH=$PATH:$HOME/pear/bin
