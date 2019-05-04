@@ -69,16 +69,17 @@ casks=(
     bettertouchtool
     google-chrome
     google-japanese-ime
+    sequel-pro
     slack
     alfred
     iterm2
-    libreoffice
-    cyberduck
-    vlc
     atom
     virtualbox
     vagrant
     vagrant-manager
+    visual-studio-code
+    coteditor
+    karabiner
 )
 
 echo "start brew cask install apps..."
