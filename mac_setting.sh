@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # キーリピートの設定
 defaults write -g InitialKeyRepeat -int 12
