@@ -48,6 +48,7 @@ formulas=(
     mecab
     diff-so-fancy
     thefuck
+    tig
 )
 
 "brew tap..."
