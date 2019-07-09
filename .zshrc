@@ -254,3 +254,11 @@ function homestead() {
 
 # メタ文字の展開無効
 setopt nonomatch
+
+# python path
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+# node path
+export PATH=$HOME/.nodebrew/current/bin:$PATH
