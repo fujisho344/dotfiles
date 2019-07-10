@@ -81,6 +81,7 @@ casks=(
     visual-studio-code
     coteditor
     karabiner
+    mark-text
 )
 
 echo "start brew cask install apps..."
