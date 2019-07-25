@@ -192,6 +192,19 @@ alias sudo='sudo '
 alias -g L='| less'
 alias -g G='| grep'
 
+# git
+alias ga='git add'
+alias gd='git diff'
+alias gs='git status'
+alias gp='git push'
+alias gb='git branch'
+alias gco='git checkout'
+alias gf='git fetch'
+alias gc='git commit'
+
+# zshの設定とか含めてリロード
+alias reload='exec zsh -l'
+
 # C で標準出力をクリップボードにコピーする
 # mollifier delta blog : http://mollifier.hatenablog.com/entry/20100317/p1
 if which pbcopy >/dev/null 2>&1 ; then
