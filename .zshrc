@@ -202,6 +202,7 @@ alias gco='git checkout'
 alias gf='git fetch'
 alias gc='git commit -m'
 alias gl='git log --oneline'
+alias gphm='git push heroku master'
 
 # zshの設定とか含めてリロード
 alias reload='exec zsh -l'

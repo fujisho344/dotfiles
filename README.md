@@ -22,3 +22,15 @@ $ chmod +x ~/dotfiles/install.sh
 $ ~/dotfiles/homebrew_install.sh
 $ ~/dotfiles/install.sh
 ```
+
+chromeアドオン追加
+```
+vinium
+whatfont
+color pick
+edit this cookie
+react developer tool
+xdebug helper
+json view
+google 翻訳
+```

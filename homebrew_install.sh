@@ -28,7 +28,6 @@ formulas=(
     ansible
     peco
     hub
-    tig
     node
     python3
     lua
@@ -49,6 +48,7 @@ formulas=(
     diff-so-fancy
     thefuck
     tig
+    mas
 )
 
 "brew tap..."
@@ -80,7 +80,16 @@ casks=(
     vagrant-manager
     visual-studio-code
     coteditor
-    karabiner
+    karabiner-elements
+    firefox
+    clipy
+    deepl
+    docker
+    phpstorm
+    station
+    sourcetree
+    spark
+    zoom
 )
 
 echo "start brew cask install apps..."
@@ -90,6 +99,16 @@ done
 
 brew cleanup
 brew cask cleanup
+
+mas=(
+    "BetterSnapTool", id: 417375580
+    "MindNode – Mind Map", id: 1289197285
+)
+
+echo "start mas install apps..."
+for mas in "${mas[@]}"; do
+    mas $mas
+done
 
 cat << END
 
