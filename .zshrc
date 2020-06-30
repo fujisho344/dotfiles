@@ -204,6 +204,15 @@ alias gc='git commit -m'
 alias gl='git log --oneline'
 alias gphm='git push heroku master'
 
+# laravel
+function laravelclear() {
+    php artisan cache:clear
+    php artisan config:clear
+    php artisan route:clear
+    php artisan view:clear
+}
+alias laravelclear=laravelclear
+
 # zshの設定とか含めてリロード
 alias reload='exec zsh -l'
 
