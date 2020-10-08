@@ -203,7 +203,7 @@ alias gf='git fetch'
 alias gc='git commit -m'
 alias gl='git log --oneline'
 alias gphm='git push heroku master'
-alias gphm='git push origin master'
+alias gpoh='git push origin master'
 alias gsw='git switch'
 
 # laravel
